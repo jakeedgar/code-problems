@@ -1,4 +1,4 @@
-## Number Palindrome
+## Number Palindrome [easy]
 
 Given an integer x, return true if x is palindrome integer.
 
