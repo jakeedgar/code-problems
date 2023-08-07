@@ -4,3 +4,4 @@
 
   - isPalindrome
   - twoSums
+  - validAnagram 
